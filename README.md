@@ -2,7 +2,7 @@ Data Science Projects Repository 🚀
 
 Welcome to my Data Science Projects repository! Here, you'll find details on two exciting projects I worked on at Bharat Intern.
 
-Project 1: Cat/Dog Image Classifier 🐾
+Project 2: Cat/Dog Image Classifier 🐾
 Google Drive Link:
 Dataset and Model link: https://drive.google.com/drive/folders/18JoQd_Sd7bJanW2cL8kkFG9jDiDW2wFu?usp=drive_link
 Project Highlights:
@@ -18,7 +18,7 @@ Data augmentation techniques for preprocessing.
 VGG16 model fine-tuned for binary classification.
 Interactive Dash app for real-time image classification.
 
-Project 2: Titanic Classification 🚢
+Project 1: Titanic Classification 🚢
 Dataset:
 The Titanic Classification project utilized the Titanic dataset. The dataset is available in the titanic.csv file.
 
